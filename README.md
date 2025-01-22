@@ -4,12 +4,16 @@ This is a Real Estate Native app built with [Expo](https://expo.dev) and [React 
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](./assets/login.jpeg)
-
-### Home Screen
-![Home Screen](./assets/home.jpeg)
-
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; text-align: center;">
+    <h3>Login Screen</h3>
+    <img src="./assets/login.jpeg" alt="Login Screen" style="width: 45%;"/>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h3>Home Screen</h3>
+    <img src="./assets/home.jpeg" alt="Home Screen" style="width: 45%;"/>
+  </div>
+</div>
 ## Get Started
 
 1. **Install dependencies**
